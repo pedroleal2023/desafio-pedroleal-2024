@@ -1,6 +1,7 @@
 class RecintosZoo {
 
     analisaRecintos(animal, quantidade) {
+        animal = 5
     }
 
 }
